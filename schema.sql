@@ -20,7 +20,7 @@ CREATE TABLE `product_category` (
   `desc` text,
   `created_at` timestamp,
   `modified_at` timestamp,
-  `deleted_at` timestamp
+  `deleted_at` timestamp 
 );
 
 CREATE TABLE `product_inventory` (
